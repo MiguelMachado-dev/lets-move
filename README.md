@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Let's Move! 👋</h1>
+<h1 align="center">Welcome to Let's move 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/oMigtito" target="_blank">
@@ -7,6 +7,8 @@
 </p>
 
 > Um projeto juntando as técnicas de pomodoro para melhorar o foco e rendimento no seu trabalho com técnicas de alongamento e tarefas para melhorar seu bem-estar.
+
+### ✨ [Demo](https://lets-move.vercel.app/)
 
 ## Install
 
@@ -34,6 +36,10 @@ yarn run test
 * Twitter: [@oMigtito](https://twitter.com/oMigtito)
 * Github: [@MiguelMachado-dev](https://github.com/MiguelMachado-dev)
 * LinkedIn: [@miguel-machado](https://linkedin.com/in/miguel-machado)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MiguelMachado-dev/lets-move/issues).
 
 ## Show your support
 
