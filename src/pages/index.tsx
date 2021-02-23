@@ -12,6 +12,8 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Início | Let's Move!</title>
+        <meta property="og:title" content="Let's Move!" />
+        <meta property="og:description" content="Um projeto juntando as técnicas de pomodoro para melhorar o foco e rendimento no seu trabalho com técnicas de alongamento e tarefas para melhorar seu bem-estar." />
       </Head>
 
       <ExperienceBar />
