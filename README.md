@@ -8,7 +8,7 @@
 
 > Um projeto juntando as técnicas de pomodoro para melhorar o foco e rendimento no seu trabalho com técnicas de alongamento e tarefas para melhorar seu bem-estar.
 
-### ✨ [Demo](https://lets-move.vercel.app/)
+### ✨ [Demo](https://letsmove.miguelmachado.dev/)
 
 ## Install
 
